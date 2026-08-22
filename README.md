@@ -1,0 +1,1 @@
+This repository contains the practical materials and code examples for the Daneshkar Academy course on Large Language Models. It covers the fundamentals from classical NLP (Bag-of-Words, Word2Vec) to modern Transformer architectures (Attention, BERT, GPT), with a focus on hands-on implementation using Python and Hugging Face libraries.
