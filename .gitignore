@@ -10,3 +10,4 @@ pyvenv.cfg
 .ipynb_checkpoints/ 
 __pycache__/ 
 *.pyc 
+etc/ 
